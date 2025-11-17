@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+beautifulsoup4==4.12.3
+autogen==0.4
+starlette
+itsdangerous
+azure-identity
+azure-keyvault-secrets 
+azure-cosmos 
+azure-mgmt-cosmosdb
+flaml[automl]
+
+
